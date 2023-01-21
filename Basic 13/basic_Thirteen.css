@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: darkmagenta;
+    color: white;
+}
+.h2{
+    display: flex;
+    
+}
+img{
+    width: 350px;
+    display: flex;
+    margin: 15px;
+}
+h1{
+    text-align: center;
+} 
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+
